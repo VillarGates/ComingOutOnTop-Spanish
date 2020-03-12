@@ -1,4 +1,4 @@
-﻿# TODO: Translation updated at 2019-01-30 13:59
+# TODO: Translation updated at 2019-01-30 13:59
 
 # game/script_jed.rpy:6
 translate languagetwo jed_noise_complaint_b177f4c5:
@@ -7366,7 +7366,7 @@ translate languagetwo jed_meet_15_f7a3df32:
 translate languagetwo jed_convince_band_f918901a:
 
     # thought "Crap. They must be in the restaurant. The meeting's probably already started."
-    pensó "Mierda. Deben estar en el restaurante. La reunión probablemente ya ha comenzado."
+    thought "Mierda. Deben estar en el restaurante. La reunión probablemente ya ha comenzado."
 
 # game/script_jed.rpy:2847
 translate languagetwo jed_convince_band_c91d4766:
@@ -7468,7 +7468,7 @@ translate languagetwo jed_convince_band_c22fbb68:
 translate languagetwo jed_convince_band_eee3fdfe:
 
     # thought "Well, you tried."
-    pensó "Bueno, lo intentaste."
+    thought "Bueno, lo intentaste."
 
 # game/script_jed.rpy:2887
 translate languagetwo jed_five_minutes_2d18e958:
@@ -9587,5 +9587,3 @@ translate languagetwo strings:
     # script_jed.rpy:3121
     old "{i}Bottoms up.{/i}"
     new "{i}Bottoms up.{/i}"
-
-
